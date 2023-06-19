@@ -1,0 +1,2 @@
+C:\Users\emily.cntoledo\source\repos\aula09- produtos\aula09- produtos\obj\Debug\aula09- produtos.csproj.AssemblyReference.cache
+C:\Users\emily.cntoledo\source\repos\aula09- produtos\aula09- produtos\obj\Debug\aula09- produtos.csproj.CoreCompileInputs.cache
